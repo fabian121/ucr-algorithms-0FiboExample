@@ -8,14 +8,16 @@
 #include <cstdlib>
 #include <stdio.h>
 
-using namespace std;
+
+
+/* comentario para indicar que esta linea es nueva*/
 
 /*
  * 
  */
 int main(int argc, char** argv) {
     
-    printf("Hola Mundo!\n\n");
+    printf("Hola Mundo!\n\n falta integrarlo con el nombre!!");
 
     return 0;
 }
